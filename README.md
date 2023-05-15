@@ -18,13 +18,13 @@ Project is separated into 2 parts:
 
 * filling the missing values
 * encoding categorical data
-* standarizing data
+* removing outliers and standarizing data
 * visualizing the relationship beatween features and target
 
-to be improved: removing outliers, transforming skewed features
+to be improved: transforming skewed features
 ### Applying Machine Learning algorithms:
 :white_large_square: 
-work in progress
+work in progress: Linear Regression, Ridge
 
 ### Docker image:
 :white_large_square: 
