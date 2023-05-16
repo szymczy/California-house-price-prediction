@@ -21,7 +21,7 @@ Project is separated into 2 parts:
 * removing outliers and standarizing data
 * visualizing the relationship beatween features and target
 
-to be improved: transforming skewed features, using pipelines
+to be improved: transforming skewed features, https://pogotowiestatystyczne.pl/slowniki/vif-wspolczynnik-vif/, using pipelines
 ### Applying Machine Learning algorithms:
 :white_large_square: 
 work in progress: Linear Regression, Ridge
