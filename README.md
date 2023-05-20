@@ -27,5 +27,10 @@ to be improved: transforming skewed features, https://pogotowiestatystyczne.pl/s
 work in progress: Linear Regression, Ridge
 
 ### Docker image:
-:white_large_square: 
-work in progress
+:white_check_mark: done
+
+
+To build image:
+``` docker build -t california . ```
+To run container: 
+``` docker run -d -p 8888:8888 california ```
